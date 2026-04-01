@@ -175,15 +175,6 @@ The application should now be running at `http://localhost:5173`.
     
 
 ---
-## 📸 Screenshots
-
-|**Landing Page**|**Job Page**|
-|---|---|
-|||
-
-|**Admin Dashboard**|**Application Status**|
-|---|---|
-|||
 
 
 ## 🤝 Contributing
@@ -201,12 +192,3 @@ Contributions are welcome!
 5. Open a Pull Request.
     
 
-## 📞 Contact
-
-If you have any questions, feel free to reach out:
-
-- **Name:** Akhand Pratap Singh
-    
-- **Email:** akhandps2007@gmail.com
-    
-- **LinkedIn:** [www.linkedin.com/in/akhandps1]
